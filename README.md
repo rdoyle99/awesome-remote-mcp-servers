@@ -2263,6 +2263,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BizIntel](https://mcp-bizintel-production.up.railway.app) `https://mcp-bizintel-production.up.railway.app/mcp`
   [![BizIntel MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel)
   🔓 - Audit websites, detect tech stacks, and find and score local businesses without a website.
+- [Book a Sponsor](https://bookasponsor.com) `https://bookasponsor.com/mcp`
+  [![Book a Sponsor MCP connector](https://glama.ai/mcp/connectors/com.bookasponsor/book-a-sponsor/badges/score.svg)](https://glama.ai/mcp/connectors/com.bookasponsor/book-a-sponsor)
+  🔓 - Brands that sponsor newsletters like yours, with where each ad ran, plus newsletter sponsorship rates.
 - [CalmSEO](https://calmseo.com) `https://mcp.calmseo.com/mcp`
   [![CalmSEO MCP connector](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp)
   🔐 - Free Google Search Console analytics plus credit-based SERP, keyword, and page audit tools.
@@ -2924,6 +2927,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
+- [ConferenceDB](https://conferencedatabase.com) `https://conferencedatabase.com/api/mcp`
+  [![ConferenceDB MCP connector](https://glama.ai/mcp/connectors/com.conferencedatabase/conferencedb/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencedatabase/conferencedb)
+  🔓 - Which companies sponsor and exhibit at conferences, with event dates, published sponsorship packages, and sponsor prospects for an organizer's event.
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
